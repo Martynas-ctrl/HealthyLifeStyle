@@ -1,0 +1,71 @@
+.containerMain {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 2px 10px 0 rgb(37 44 97 / 15%), 0 2px 4px 0 rgb(93 100 148 / 20%);
+    position: absolute;
+    left: 50%;
+    margin-left: -650px;
+    top: 50%;
+    height: 685px;
+    margin-top: -342px;
+  }
+
+  body {
+    background-color: #00BFA6;
+  }
+
+  #exampleInputEmail1 {
+    width: 600px;
+  }
+
+  .startPageForm {
+    border: 2px solid white;
+    width: 500px;
+  }
+
+  #label:focus {
+    font-size: 60px!important;
+  }
+
+  label {
+    margin-right: 100px;
+  }
+
+  .containerForm {
+    margin-top: 100px;
+  }
+
+  .containerImg{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .startPageForm {
+    margin-left: 100px;
+    background: transparent;
+    border-radius: 20px;
+  }
+
+  #section {
+    width: 200px;
+  }
+
+  .sectionContainer {
+    display: flex;
+  }
+
+  .section1{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #title {
+    margin-top: 90px;
+    color: #009688;
+  }
+
+  #fitnessImg {
+    width: 600px;
+    
+    margin-left: 100px;
+  }

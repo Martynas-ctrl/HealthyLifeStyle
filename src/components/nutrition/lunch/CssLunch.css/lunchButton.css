@@ -1,0 +1,39 @@
+.dinnerButton {
+    margin-top: -66px;
+    margin-left: 50px;
+    height: 40px;
+}
+
+.lunchButton {
+    margin-top: -66px;
+    margin-left: 100px;
+    height: 38px;
+}
+
+.snacksButton {
+    margin-top: -88px;
+    margin-left: 102px;
+    height: 38px;
+}
+
+.dinnerButton2 {
+    margin-top: -115px;
+    margin-left: 180px;
+    height: 40px;
+}
+
+.toggle {
+    margin-left: -75px;
+}
+
+.toggles {
+    margin-left: 80px;
+}
+
+.acco {
+    height: 500px;
+}
+
+#hover:hover {
+    color: #009688;
+}

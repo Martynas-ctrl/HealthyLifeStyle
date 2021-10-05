@@ -1,0 +1,16 @@
+.container {
+    height: 93vh; 
+}
+
+@media only screen and (min-width: 768px) {
+    .container {
+        max-width: 90%;
+    }
+  }
+
+  @media (min-width: 576px) {
+.col-sm-4 {
+    max-width: 100%;
+}
+
+  }

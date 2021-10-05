@@ -1,0 +1,57 @@
+#buttonMenu1 {
+  color: #009688;
+}
+
+#buttonMenu2 {
+  color: #ffffff;
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+#buttonMenu2:hover {
+  background-color: #06c5ac;
+}
+
+h5 {
+  color: #0000008a;
+}
+
+p {
+color: #0000008a; 
+font-size: 13px;
+}
+
+#fitness_img{
+  width: 220px;
+  height: 450px;
+}
+
+#mdbimg {
+  background-color: #009688;
+}
+
+#mdbCard {
+  margin-left: 10px;
+}
+
+.containerP {
+  display: flex;
+}
+
+#cardBody {
+  border-bottom: 1px solid black;
+}
+
+.containerSpan {
+  border-right: 1px solid grey;
+  width: 105px;
+}
+
+.containerSpanB {
+  margin-left: 30px;
+}
+
+#maleAvatar {
+  width: 175px!important;
+  
+}

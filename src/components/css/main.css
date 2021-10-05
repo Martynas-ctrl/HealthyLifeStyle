@@ -1,0 +1,50 @@
+.containerProgress {
+    display: flex;
+}
+
+.containerCircle {
+    display: flex;
+    flex-direction: row;
+}
+
+.innerContainer {
+    margin-right: 100px;
+}
+
+h6 {
+    font-size: 15px;
+}
+
+#maleAvatar {
+    width: 150px;
+}
+
+.userLinks {
+    margin-left: 5px!important;
+}
+
+.button_user {
+    padding-right: 100px!important;
+}
+
+main {
+    background-color: rgb(255, 250, 250);
+    height: 100%;
+}
+
+#containerUser {
+    background-color: #00BFA6;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+#containerLogo {
+    margin-right: 100vh;
+}
+
+#dw-s1 {
+    background-color: #00BFA6;
+}
