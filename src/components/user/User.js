@@ -53,6 +53,10 @@ const getTotal = () => {
   });
 } 
 
+// const refresh = () => {
+//   window.location.reload();
+// }
+
 useEffect(() => {
   getData();
   getTotal();
